@@ -215,7 +215,7 @@ h3{
 
 /* media queries */
 /* anything under under this size will take effect */
-@media(max-width:1100px){
+@media(max-width: 1100px){
 .categories .covers{
     grid-template-columns: 1fr 1fr;
 }
@@ -239,7 +239,7 @@ h3{
         text-align: center;
         gap: 20px;
     }
-    .su-header img{
+    .sub-header img{
         width: 250px;
         margin: auto;
     }
