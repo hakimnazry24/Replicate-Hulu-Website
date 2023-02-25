@@ -1,0 +1,10 @@
+{
+    "fiveServer.highlight": true,
+    "fiveServer.browser": [
+
+    ],
+    "fiveServer.ignore": [
+
+    ],
+    "fiveServer.injectBody": true
+}
